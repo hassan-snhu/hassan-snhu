@@ -14,12 +14,5 @@ I'm currently studying Information Technology at **SNHU**, where I'm developing 
 
 ---
 
-## 🌱 What I'm Currently Learning  
-- Building automation scripts with **Playwright and Selenium**  
-- API testing with **Postman**  
-- Strengthening cybersecurity knowledge with **CompTIA Security+ topics**
-
----
-
 ⭐️ **Feel free to explore my repositories and contribute!**  
 Let’s connect and learn together.  
